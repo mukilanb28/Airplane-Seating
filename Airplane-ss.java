@@ -157,8 +157,7 @@ public class Main
 	            }
 	        }
 	        ++rowIndex;
-	        if(rowIndex==10)
-	            break;
+	        
 	    }while(foundNextRow);
 	}
 
